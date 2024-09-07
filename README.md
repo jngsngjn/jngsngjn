@@ -2,9 +2,9 @@
 I'm a **Backend Developer** with a strong interest in **refactoring** and **exception handling**.<br>
 I spend most of my time coding, but when I'm not, you can find me:
 
-🏃‍️ Going for a run to clear my mind<br>
-🎮 Playing **The Legend of Zelda** and **Hearthstone**<br>
-🎤 Singing my favorite songs and exploring new music
+- 🏃‍️ Going for a run to clear my mind<br>
+- 🎮 Playing **The Legend of Zelda** and **Hearthstone**<br>
+- 🎤 Singing my favorite songs and exploring new music
 ---
 
 ## 💬 Contacts
