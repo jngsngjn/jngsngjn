@@ -5,14 +5,11 @@ I spend most of my time coding, but when I'm not, you can find me:
 - 🏃‍️ Going for a run to clear my mind<br>
 - 🎮 Playing **The Legend of Zelda** and **Hearthstone**<br>
 - 🎤 Singing my favorite songs and exploring new music
----
 
 ## 💬 Contacts
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjdtjdwls98@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://jngsngjn.tistory.com)
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/jngsngjn)
-
----
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,8 +27,6 @@ I spend most of my time coding, but when I'm not, you can find me:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
 
 ## 📜 Credentials
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-gold?style=for-the-badge)
