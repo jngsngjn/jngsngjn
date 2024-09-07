@@ -1,9 +1,13 @@
-# Hello! <img src="images/duke.png" alt="duke" height="100">
-I'm a **Backend Developer** with a strong interest in **refactoring** and **exception handling**.<br>
-I spend most of my time coding, but when I'm not, you can find me:
-- 🏃‍️ Going for a run to clear my mind
-- 🎮 Playing **The Legend of Zelda** and **Hearthstone**
+<h1 align="center">Welcome to my github! <img src="images/duke.png" alt="duke" height="100"></h1>
+<p align="center">I'm a <strong>Backend Developer</strong> with a strong interest in <strong>refactoring</strong> and <strong>exception handling</strong>.<br>
+I spend most of my time coding, but when I'm not, you can find me:</p>
+
+<p align="center">
+- 🏃‍️ Going for a run to clear my mind<br>
+- 🎮 Playing <strong>The Legend of Zelda</strong> and <strong>Hearthstone</strong><br>
 - 🎤 Singing my favorite songs and exploring new music
+</p>
+
 ---
 
 ## 💬 Contacts
