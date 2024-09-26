@@ -1,9 +1,9 @@
-# Welcome to my github! <img src="images/duke.png" alt="duke" height="100">
+# Welcome to my github! <img src="images/duke.png" alt="duke" height="100"> <img src="images/tux.png" alt="tux" height="95">
 I'm a **Backend Developer** with a strong interest in **refactoring** and **exception handling**.<br>
 I spend most of my time coding, but when I'm not, you can find me:
 
 - 🏃‍️ Going for a run to clear my mind<br>
-- 🎮 Playing **The Legend of Zelda** and **Hearthstone**<br>
+- 🎮 Playing **Project Zomboid** and **Hearthstone**<br>
 - 🎤 Singing my favorite songs and exploring new music
 
 ## 💬 Contacts
