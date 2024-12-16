@@ -27,4 +27,4 @@ I'm a **Backend Developer** with a strong interest in **refactoring** and **exce
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-gold?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-silver?style=for-the-badge&logoColor=white)
 ![NCA](https://img.shields.io/badge/NCA-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-<!-- ![리눅스마스터 2급](https://img.shields.io/badge/리눅스마스터%202급-black?style=for-the-badge&logo=linux&logoColor=white) -->
+![리눅스마스터](https://img.shields.io/badge/리눅스마스터-black?style=for-the-badge&logo=linux&logoColor=white)
